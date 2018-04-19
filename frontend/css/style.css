@@ -1,0 +1,99 @@
+body{
+    background-image: url(../img/slider-avion-nuages-DE-GB.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    height: 97px;
+}
+.navbar-light .navbar-nav .nav-link {
+   color:black ;
+}
+.active-text{
+    color: #86CFF0 !important;
+    font-weight: 600;
+}
+.content{
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.inner-menu{
+    background-color: white;
+}
+
+.inner-info{
+    background-color: white;
+    padding: 21px;
+    padding-bottom: 57px;
+}
+.menu-candidate{
+    list-style: none;
+    padding: 0px;
+}
+ul>.list-item-menu{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 3px;
+    background-color: #105497;
+}
+ul>.list-item-menu>span{
+        padding-left: 31px;
+    color: white;
+}
+h3,h4{
+    color:#105497 !important;
+    font-weight: 600 !important;
+}
+.sub-string{
+    font-weight: 600;
+    color:#105497;
+}
+label{
+    color: #105497;
+}
+.register_screen{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.btn-outline-success {
+    color: white;
+    background-color: #105497 !important;
+    background-image: none;
+    border-color: #105497 !important;
+    width: 75px;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #105497 !important;
+    border-color: #105497 !important;
+}
+.list_menu_offer>li>a{
+    font-weight: 450;
+    margin-right: 25px;
+}
+.btn-outline-success:not(:disabled):not(.disabled).active, .btn-outline-success:not(:disabled):not(.disabled):active, .show>.btn-outline-success.dropdown-toggle {
+    color: #fff;
+    background-color: #105497 !important;
+    border-color: #105497 !important;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #105497 !important;
+    border-color: #105497 !important;
+}
+.btn-outline-success.focus, .btn-outline-success:focus {
+    box-shadow: 0 0 0 0.2rem rgba(16,84,151,.5) !important;;
+}
+.btn-outline-success:not(:disabled):not(.disabled).active:focus, .btn-outline-success:not(:disabled):not(.disabled):active:focus, .show>.btn-outline-success.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(16,84,151,.5) !important;
+}
+.table_row{
+    background-color:#105497 !important;
+    color: white;
+    padding: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
