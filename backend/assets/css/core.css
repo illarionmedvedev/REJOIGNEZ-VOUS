@@ -6078,8 +6078,8 @@ a.list-group-item-danger:focus {
   margin: 0;
 }
 .panel-flat > .panel-heading {
-  padding-top: 20px;
-  padding-bottom: 20px;
+ padding-top: 15px;
+    padding-bottom: 11px;
   background-color: #165395;
 }
 .panel-flat > .panel-heading > .panel-title {
